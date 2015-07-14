@@ -3,6 +3,10 @@ VIM highlighting for GPFS (Spectrum Scale)
 
 Author: Jez Tucker <jtucker@pixitmedia.com>
 
+http://www.pixitmedia.com
+
+http://www.arcastream.com
+
 
 Installation
 ------------
